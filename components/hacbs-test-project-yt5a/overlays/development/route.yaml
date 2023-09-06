@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: hacbs-test-project-yt5a
     app.kubernetes.io/part-of: rhtap-demo-app
-  name: hacbs-test-project-yt5a1c2x
+  name: hacbs-test-project-yt5atpi0
 spec:
   port:
     targetPort: 8081
